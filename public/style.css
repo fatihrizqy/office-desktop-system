@@ -1,0 +1,22 @@
+.login-container {
+    width: 50%;
+    box-shadow: 10px 10px 10px #eee;
+    padding: 50px;
+    border-radius: 10px;
+}
+.head-contain {
+    height: 90vh;
+}
+.m-100 {
+    margin-top: 100px;
+}
+.link-content {
+    width: 15vw;
+    background-color: rgb(42, 42, 42);
+    color: #eee;
+    height: 100vh;
+}
+.contents {
+    width: 85vw;
+    height: 100vh;
+}
